@@ -6,8 +6,10 @@ public class Hello {
         // Added line for feature2
         System.out.println("feature2");
 
-        //added this  code by ras
-        int b = 0;
-        System.out.println(b);
+        //Code changes by  code by ras
+        int a = 1;
+        int b = 2;
+        int res = a + b;
+        System.out.println(res);
     }
 }
