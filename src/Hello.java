@@ -6,8 +6,10 @@ public class Hello {
         // Added line for feature2
         System.out.println("feature2");
 
-        // Added line by dev-anup
-        int a = 20;
-        System.out.println(a);
+        //Code changes by code by anup
+        int a = 10;
+        int b = 20;
+        int res = a + b;
+        System.out.println("Result : "+ res);
     }
 }
